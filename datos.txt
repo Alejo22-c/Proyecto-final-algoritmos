@@ -1,0 +1,4 @@
+1
+If
+Si
+Es para evaluar una expresion de ser verdadera ejecutara un bloque de codigo caso contrario ejecutara otro bloque de codigo igual o contrario
