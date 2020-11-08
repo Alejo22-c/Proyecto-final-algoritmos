@@ -1,4 +1,16 @@
-1
-If
-Si
-Es para evaluar una expresion de ser verdadera ejecutara un bloque de codigo caso contrario ejecutara otro bloque de codigo igual o contrario
+
+BOOL 
+Variable tipo Booleano
+Se antepone al nombre de una variable cuyo uso sera responder falso o verdadero
+
+AUTO
+Variable de tipo automatico
+Se antepone al nombre de una variable que queremos que automaticamente la declare con los distintos tipos de variables (int, char, string, entre otros).
+
+BREAK
+Terminar
+Es la accion subita de terminar un proceso.
+
+CASE
+Casos
+Componente sintactico de sentencias condicionales de tipo SWITCH.
